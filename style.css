@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    
+    padding:0;
+}
+body{
+    background:rgba(192, 40, 40, 0.918);
+}
+.container{
+    
+    display:flex;
+    margin:auto;
+    width:90%;
+    
+}
+.groceries{
+    width:50%;
+    text-align: center;
+    background-color:rgb(214, 236, 215);
+    min-height: 100vh;
+    margin:auto;
+    box-shadow: 10px 10px 24px 2px  rgb(156, 183, 150);
+}
+.grocery_heading{
+    font-family: 'Caveat', cursive;
+font-family: 'Corinthia', cursive;
+font-family: 'Dancing Script', cursive;
+color:rgb(71, 30, 30);
+    margin-top: 5px;
+    font-size: 2.5rem;
+}
+.material-icons{
+    font-size: 1rem;
+    color: rgb(12, 83, 24);
+}
+.input_text{
+    font-family: 'Caveat', cursive;
+font-family: 'Corinthia', cursive;
+font-family: 'Dancing Script', cursive;
+    background-color: inherit;
+    outline:0;
+    border:0;
+    border-bottom: 1px solid black;
+    font-size: 2rem;
+    color:burlywood;
+    width:60%;
+}
+.all_items{
+    margin-top: 10px;
+    font-family: 'Caveat', cursive;
+font-family: 'Corinthia', cursive;
+font-family: 'Dancing Script', cursive;
+font-size: 1rem;
+color:rgb(51, 34, 12);
+   margin:auto;
+}
+
+   
